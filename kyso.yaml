@@ -1,0 +1,5 @@
+title: "bitcoin nonce statistics"
+description: "Kyso project about bitcoin"
+main: nonce_statistics_analysis.ipynb
+tags:
+  - bitcoin
